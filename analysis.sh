@@ -1,7 +1,7 @@
 
 
 wDir=`pwd`			# working directory
-scriptDir="${wDir}/scripts/"	# directory with custom scripts
+scriptDir="${wDir}/"	# directory with custom scripts
 bamDir=`pwd`			# directory with mapped bam files
 
 TISSUE="Liver BM Cortex"
